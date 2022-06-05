@@ -1,0 +1,217 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.f1 {
+  /* border: 1px solid; */
+  height: 80px;
+}
+.shoes {
+  color: red;
+  font-weight: bolder;
+  /* font-style: oblique; */
+  margin: 15px 0 0 50px;
+}
+
+.navul {
+  margin-left: 700px;
+  list-style: none;
+  margin-top: -15px;
+}
+
+.navli {
+  float: left;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.navli:hover {
+  cursor: pointer;
+  color: lime;
+}
+
+/* .pc{
+  height: 1000px;
+  border: 1px solid;
+  background-image:url(./bata.jpg)
+} */
+
+.ho {
+  text-align: center;
+}
+
+.bo {
+  font-weight: bolder;
+  text-align: center;
+  text-decoration: underline blue;
+  text-decoration-style: wavy;
+  margin-top: 20px;
+}
+
+.b1 {
+  border: 1px;
+  height: 15px;
+  /* float: left; */
+  list-style: none;
+  margin-left: 200px;
+}
+
+.b2 {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  /* border: 1px solid; */
+  float: left;
+  margin-top: 100px;
+  margin-left: 60px;
+}
+
+.a1 {
+  margin-left: 170px;
+  background-image: url(./quality.png);
+  background-size: 100% 100%;
+}
+
+.a2 {
+  background-image: url(./long.jpg);
+  background-size: 100% 100%;
+}
+
+.a3 {
+  background-image: url(./price.jpg);
+  background-size: 100% 100%;
+}
+
+.batalogo {
+  /* border: 1px solid; */
+  height: 150px;
+  width: 500px;
+  background-image: url(./bataimage.png);
+  background-size: 100% 100%;
+  margin: 350px 0 0 200px;
+}
+
+.powerlogo {
+  /* border: 1px solid; */
+  height: 150px;
+  width: 300px;
+  background-image: url(./power.png);
+  background-size: 100% 100%;
+  margin: -150px 0 0 800px;
+}
+
+.center {
+  height: 300px;
+  /* border: 1px solid; */
+  background-color: crimson;
+}
+
+.imp {
+  text-align: center;
+  margin: 40px 0 0 0;
+}
+
+h2 {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+.sale {
+  /* border: 1px solid; */
+  height: 40px;
+  width: 150px;
+  font-weight: bolder;
+  color: red;
+  margin: 70px 0 0 0px;
+}
+
+.edit {
+  margin-left: 500px;
+}
+
+.sale:hover {
+  cursor: pointer;
+  background-color: #c0c0c0;
+  border-radius: 10px;
+  color: darkblue;
+}
+
+.prod {
+  /* border: 1px solid; */
+  height: 500px;
+  text-align: center;
+}
+
+.img {
+  /* border: 1px solid; */
+  height: 200px;
+  width: 400px;
+  float: left;
+  margin-left: 170px;
+  margin-top: 20px;
+}
+
+.pic {
+  background-image: url(./2.jfif);
+  background-size: 100% 100%;
+}
+.pic1 {
+  background-image: url(./1.jfif);
+  background-size: 100% 100%;
+}
+
+.pic4 {
+  background-image: url(./3.jfif);
+  background-size: 100% 100%;
+}
+
+.pic3 {
+  background-image: url(./4.jfif);
+  background-size: 100% 100%;
+}
+
+.bar {
+  border: 1px solid;
+  height: 50px;
+  background-color: darkred;
+  position: relative;
+}
+
+.sign {
+  margin-left: 200px;
+  /* text-align: center; */
+  margin-top: 10px;
+  color: white;
+}
+
+.signin {
+  border: 1px solid;
+  height: 30px;
+  width: 500px;
+  margin: -20px 0 0 450px;
+  color: white;
+}
+.end {
+  height: 30px;
+  width: 100px;
+  border: 1px solid;
+  /* background-color: white; */
+  color: black;
+  /* margin: -15px 0 0 1000px; */
+  position: absolute;
+  left: 1000px;
+  top: 10px;
+}
+
+.news {
+  height: 200px;
+  width: 75px;
+  border: 1px solid;
+  position: fixed;
+  top: 200px;
+  background-image: url("./bataimage.png");
+  transform: rotate(180deg);
+  background-size: 100px 100px;
+}
